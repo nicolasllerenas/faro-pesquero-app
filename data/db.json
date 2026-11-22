@@ -1,0 +1,1189 @@
+{
+  "user": {
+    "id": "don-jacinto",
+    "name": "Don Jacinto Ramos Morales",
+    "nickname": "El Cholo Jacinto",
+    "role": "Patrón Pescador Artesanal",
+    "boatName": "Flor del Mar III",
+    "registrationNumber": "CO-12948-BM",
+    "pier": "Muelle Artesanal de Chorrillos",
+    "cove": "Caleta Chorrillos - Agua Dulce",
+    "association": "Asociación de Pescadores Artesanales José Olaya Balandra",
+    "yearsOfExperience": 48,
+    "avatarUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=200&h=200&fit=crop&crop=faces",
+    "phone": "+51 984 512 830",
+    "preferences": {
+      "highContrastMode": true,
+      "voiceAlerts": true,
+      "largeFont": true,
+      "vibrationFeedback": true,
+      "alertVolume": 100,
+      "autoSaveDetections": true
+    }
+  },
+  "detections": [
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 1,
+      "location": "Bajo del Morro Solar - Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "demo_sample",
+      "verifiedByFisherman": true,
+      "id": "det-1795386440741-272",
+      "timestamp": "2026-11-22T22:27:20.741Z"
+    },
+    {
+      "species": "Piquero",
+      "commonName": "Piquero Peruano",
+      "scientificName": "Sula variegata",
+      "confidence": 1,
+      "location": "Bajo del Morro Solar - Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Piqueros lanzándose en picada vertical. Echar red de cerco o cortina a 2 brazas de inmediato.",
+      "fishIndication": "¡Cardumen denso de Anchoveta y Pejerrey en superficie!",
+      "source": "demo_sample",
+      "verifiedByFisherman": true,
+      "id": "det-1795386437209-245",
+      "timestamp": "2026-11-22T22:27:17.209Z"
+    },
+    {
+      "species": "Piquero",
+      "commonName": "Piquero Peruano",
+      "scientificName": "Sula variegata",
+      "confidence": 1,
+      "location": "Bajo del Morro Solar - Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Piqueros lanzándose en picada vertical. Echar red de cerco o cortina a 2 brazas de inmediato.",
+      "fishIndication": "¡Cardumen denso de Anchoveta y Pejerrey en superficie!",
+      "source": "demo_sample",
+      "verifiedByFisherman": true,
+      "id": "det-1795386424832-843",
+      "timestamp": "2026-11-22T22:27:04.832Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 1,
+      "location": "Bajo del Morro Solar - Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "demo_sample",
+      "verifiedByFisherman": true,
+      "id": "det-1795386417925-514",
+      "timestamp": "2026-11-22T22:26:57.925Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 1,
+      "location": "Bajo del Morro Solar - Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "demo_sample",
+      "verifiedByFisherman": true,
+      "id": "det-1795386395153-527",
+      "timestamp": "2026-11-22T22:26:35.153Z"
+    },
+    {
+      "species": "Piquero",
+      "commonName": "Piquero Peruano",
+      "scientificName": "Sula variegata",
+      "confidence": 1,
+      "location": "Bajo del Morro Solar - Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Piqueros lanzándose en picada vertical. Echar red de cerco o cortina a 2 brazas de inmediato.",
+      "fishIndication": "¡Cardumen denso de Anchoveta y Pejerrey en superficie!",
+      "source": "demo_sample",
+      "verifiedByFisherman": true,
+      "id": "det-1795386385788-749",
+      "timestamp": "2026-11-22T22:26:25.788Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9985,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386207823-810",
+      "timestamp": "2026-11-22T22:23:27.823Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9695,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386206799-867",
+      "timestamp": "2026-11-22T22:23:26.799Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9511,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386206290-626",
+      "timestamp": "2026-11-22T22:23:26.290Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9881,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386205351-918",
+      "timestamp": "2026-11-22T22:23:25.351Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9988,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386204836-147",
+      "timestamp": "2026-11-22T22:23:24.836Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9727,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386204325-572",
+      "timestamp": "2026-11-22T22:23:24.325Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.8688,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386203808-958",
+      "timestamp": "2026-11-22T22:23:23.808Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.7949,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386202361-610",
+      "timestamp": "2026-11-22T22:23:22.361Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9957,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386201850-273",
+      "timestamp": "2026-11-22T22:23:21.850Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9898,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386200827-534",
+      "timestamp": "2026-11-22T22:23:20.827Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9311,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386200316-922",
+      "timestamp": "2026-11-22T22:23:20.316Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9483,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386199799-306",
+      "timestamp": "2026-11-22T22:23:19.799Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.8987,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386199291-433",
+      "timestamp": "2026-11-22T22:23:19.291Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9905,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386198858-55",
+      "timestamp": "2026-11-22T22:23:18.858Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.7854,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386198350-475",
+      "timestamp": "2026-11-22T22:23:18.350Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 0.9975,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386197839-318",
+      "timestamp": "2026-11-22T22:23:17.839Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9264,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386196814-721",
+      "timestamp": "2026-11-22T22:23:16.814Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9969,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386196305-956",
+      "timestamp": "2026-11-22T22:23:16.305Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.8675,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386195373-563",
+      "timestamp": "2026-11-22T22:23:15.373Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9966,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386194853-928",
+      "timestamp": "2026-11-22T22:23:14.853Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.8844,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386191865-312",
+      "timestamp": "2026-11-22T22:23:11.865Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9916,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386190843-776",
+      "timestamp": "2026-11-22T22:23:10.843Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9958,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386189832-57",
+      "timestamp": "2026-11-22T22:23:09.832Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 0.8547,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386189305-536",
+      "timestamp": "2026-11-22T22:23:09.305Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.8854,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386188795-996",
+      "timestamp": "2026-11-22T22:23:08.795Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.8609,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386185802-198",
+      "timestamp": "2026-11-22T22:23:05.802Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9585,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386185295-724",
+      "timestamp": "2026-11-22T22:23:05.295Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9845,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386184870-301",
+      "timestamp": "2026-11-22T22:23:04.870Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9927,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386184366-682",
+      "timestamp": "2026-11-22T22:23:04.366Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9849,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386183847-904",
+      "timestamp": "2026-11-22T22:23:03.847Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.8909,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386183333-825",
+      "timestamp": "2026-11-22T22:23:03.333Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 0.9831,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386182308-145",
+      "timestamp": "2026-11-22T22:23:02.308Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.7306,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386180858-623",
+      "timestamp": "2026-11-22T22:23:00.858Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9559,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386178809-754",
+      "timestamp": "2026-11-22T22:22:58.809Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 0.9232,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386178299-193",
+      "timestamp": "2026-11-22T22:22:58.299Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 1,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386177873-376",
+      "timestamp": "2026-11-22T22:22:57.873Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 0.8848,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386177360-12",
+      "timestamp": "2026-11-22T22:22:57.360Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 0.993,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386167374-19",
+      "timestamp": "2026-11-22T22:22:47.374Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 0.9895,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386166861-464",
+      "timestamp": "2026-11-22T22:22:46.861Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 0.9884,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386163365-844",
+      "timestamp": "2026-11-22T22:22:43.365Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 1,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386162847-276",
+      "timestamp": "2026-11-22T22:22:42.847Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 1,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386162343-474",
+      "timestamp": "2026-11-22T22:22:42.343Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 0.9982,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386161827-719",
+      "timestamp": "2026-11-22T22:22:41.827Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 0.8979,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386140330-735",
+      "timestamp": "2026-11-22T22:22:20.330Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 0.9534,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386138363-784",
+      "timestamp": "2026-11-22T22:22:18.363Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9996,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386137857-176",
+      "timestamp": "2026-11-22T22:22:17.857Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.9998,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386137337-491",
+      "timestamp": "2026-11-22T22:22:17.337Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 1,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386135885-753",
+      "timestamp": "2026-11-22T22:22:15.885Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 1,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386135373-854",
+      "timestamp": "2026-11-22T22:22:15.373Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 1,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386134862-552",
+      "timestamp": "2026-11-22T22:22:14.862Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 1,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386134349-296",
+      "timestamp": "2026-11-22T22:22:14.349Z"
+    },
+    {
+      "species": "Piquero",
+      "commonName": "Piquero Peruano",
+      "scientificName": "Sula variegata",
+      "confidence": 0.9999,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Piqueros lanzándose en picada vertical. Echar red de cerco o cortina a 2 brazas de inmediato.",
+      "fishIndication": "¡Cardumen denso de Anchoveta y Pejerrey en superficie!",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386126329-53",
+      "timestamp": "2026-11-22T22:22:06.329Z"
+    },
+    {
+      "species": "Piquero",
+      "commonName": "Piquero Peruano",
+      "scientificName": "Sula variegata",
+      "confidence": 0.999,
+      "location": "Altamar - Muelle de Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Piqueros lanzándose en picada vertical. Echar red de cerco o cortina a 2 brazas de inmediato.",
+      "fishIndication": "¡Cardumen denso de Anchoveta y Pejerrey en superficie!",
+      "source": "live_mic",
+      "verifiedByFisherman": true,
+      "id": "det-1795386125819-715",
+      "timestamp": "2026-11-22T22:22:05.819Z"
+    },
+    {
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 1,
+      "location": "Bajo del Morro Solar - Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Bandada comiendo en superficie. Buen momento para curricán o anzuelo número 5.",
+      "fishIndication": "Peces carnada dispersos y Lorna en movimiento superficial.",
+      "source": "demo_sample",
+      "verifiedByFisherman": true,
+      "id": "det-1795385024863-113",
+      "timestamp": "2026-11-22T22:03:44.863Z"
+    },
+    {
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 1,
+      "location": "Bajo del Morro Solar - Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Pelícanos acuatizando cerca a los peñeros. Probar con espinel o pinta manual manteniendo distancia del oleaje.",
+      "fishIndication": "Peces mayores de costa: Corvina, Machete y Lisa.",
+      "source": "demo_sample",
+      "verifiedByFisherman": true,
+      "id": "det-1795385024861-509",
+      "timestamp": "2026-11-22T22:03:44.861Z"
+    },
+    {
+      "species": "Piquero",
+      "commonName": "Piquero Peruano",
+      "scientificName": "Sula variegata",
+      "confidence": 1,
+      "location": "Bajo del Morro Solar - Chorrillos",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "Piqueros lanzándose en picada vertical. Echar red de cerco o cortina a 2 brazas de inmediato.",
+      "fishIndication": "¡Cardumen denso de Anchoveta y Pejerrey en superficie!",
+      "source": "demo_sample",
+      "verifiedByFisherman": true,
+      "id": "det-1795385024856-912",
+      "timestamp": "2026-11-22T22:03:44.856Z"
+    },
+    {
+      "id": "det-001",
+      "timestamp": "2026-11-22T21:27:04.490Z",
+      "species": "Piquero",
+      "commonName": "Piquero Peruano",
+      "scientificName": "Sula variegata",
+      "confidence": 0.985,
+      "location": "Bajo del Morro Solar",
+      "coordinates": {
+        "lat": -12.1702,
+        "lng": -77.0345
+      },
+      "advice": "¡Cardumen en superficie! Echar red de cortina a 2 brazas de profundidad.",
+      "fishIndication": "Anchoveta y Pejerrey en cardumen compacto",
+      "source": "live_mic",
+      "verifiedByFisherman": true
+    },
+    {
+      "id": "det-002",
+      "timestamp": "2026-11-22T20:27:04.491Z",
+      "species": "Pelicano",
+      "commonName": "Pelícano Peruano",
+      "scientificName": "Pelecanus thagus",
+      "confidence": 0.942,
+      "location": "El Salto del Fraile",
+      "coordinates": {
+        "lat": -12.1768,
+        "lng": -77.0382
+      },
+      "advice": "Peces cerca a las rocas. Mantener distancia segura del reventazón.",
+      "fishIndication": "Corvina y Machete de orilla",
+      "source": "live_mic",
+      "verifiedByFisherman": true
+    },
+    {
+      "id": "det-003",
+      "timestamp": "2026-11-22T19:02:04.491Z",
+      "species": "Gaviota",
+      "commonName": "Gaviota Peruana",
+      "scientificName": "Larus belcheri",
+      "confidence": 0.915,
+      "location": "Bajo de La Herradura",
+      "coordinates": {
+        "lat": -12.1834,
+        "lng": -77.0421
+      },
+      "advice": "Peces carnada dispersos. Usar espinel o anzuelo número 5.",
+      "fishIndication": "Lorna y Pejerrey superficial",
+      "source": "demo_sample",
+      "verifiedByFisherman": false
+    }
+  ],
+  "spots": [
+    {
+      "id": "morro-solar",
+      "name": "Bajo del Morro Solar",
+      "description": "Zona rocosa profunda con fuertes corrientes. Los piqueros se lanzan en picada vertical cuando sube la anchoveta.",
+      "depthMeters": 18,
+      "recommendedNet": "Red de cerco / Cortina de 2 brazas",
+      "commonSpecies": [
+        "Piquero",
+        "Pelicano"
+      ],
+      "lat": -12.1702,
+      "lng": -77.0345,
+      "distanceFromPierKm": 1.4
+    },
+    {
+      "id": "salto-fraile",
+      "name": "El Salto del Fraile",
+      "description": "Corriente rompiente ideal para corvina y lornas. Presencia continua de gaviotas y pelícanos sobre peñas.",
+      "depthMeters": 12,
+      "recommendedNet": "Espinel de fondo / Pinta manual",
+      "commonSpecies": [
+        "Gaviota",
+        "Pelicano"
+      ],
+      "lat": -12.1768,
+      "lng": -77.0382,
+      "distanceFromPierKm": 2.3
+    },
+    {
+      "id": "la-herradura",
+      "name": "Bajo de La Herradura",
+      "description": "Fondo mixto de piedra y arena. Gran afluencia de pejerrey y lorna cuando las bandadas de piqueros graznan alto.",
+      "depthMeters": 15,
+      "recommendedNet": "Red agallera / Trasmallo",
+      "commonSpecies": [
+        "Piquero",
+        "Gaviota"
+      ],
+      "lat": -12.1834,
+      "lng": -77.0421,
+      "distanceFromPierKm": 3.1
+    },
+    {
+      "id": "muelle-chorrillos",
+      "name": "Frente al Muelle de Chorrillos",
+      "description": "Zona de salida y caleta mansa. Pelícanos descansan en los peñeros esperando el descarte del día.",
+      "depthMeters": 6,
+      "recommendedNet": "Pinta costera / Línea de mano",
+      "commonSpecies": [
+        "Pelicano",
+        "Gaviota"
+      ],
+      "lat": -12.1605,
+      "lng": -77.0312,
+      "distanceFromPierKm": 0.2
+    }
+  ]
+}
